@@ -1,0 +1,25 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="DC1-dEC$@5:S0NFTH9B-">iluminación</variable></variables><block type="pxt-on-start" id="i813+X.tb5Bve/a4y/RJ" x="0" y="0"/><block type="device_forever" id="Al{uh7Kq22;WwMq,?+9H" x="205" y="0"><statement name="HANDLER"><block type="controls_if" id="Fz5-Q_B1JYB,ru[[|N-1"><value name="IF0"><shadow type="logic_boolean"><field name="BOOL">TRUE</field></shadow><block type="logic_compare" id="]1|~NRn]hac1V+!ekTkW"><field name="OP">EQ</field><value name="A"><shadow type="math_number" id="81(@FE8lWxXoCk;xYreE"><field name="NUM">1</field></shadow></value><value name="B"><shadow type="math_number" id="n.`5tM!YDfgibq]3{v@]"><field name="NUM">0</field></shadow></value></block></value></block></statement></block><block type="function_definition" id="@/apdwTlM:8.:;Tvdf=)" x="23" y="273"><mutation name="enojado" functionid="iEW4K@Ex!~%KEiN_sFM|"/><field name="function_name">enojado</field><statement name="STACK"><block type="device_show_leds" id="Eq8%`?0yJ2DK{-bj`7)o"><field name="LEDS">`
+        # . . . # 
+        . # . # . 
+        . . . . . 
+        . # # # . 
+        # . . . #
+        `</field></block></statement></block><block type="function_definition" id="oFB{AR?]Frys.0rbHDFm" x="435" y="263"><mutation name="miedo" functionid="f*.7OUAiNXS$rTRwLvE?"/><field name="function_name">miedo</field><statement name="STACK"><block type="device_show_leds" id="@jJ4ZFX(5cMKYHSG;Eu;"><field name="LEDS">`
+        . # . # . 
+        . # . # . 
+        # . . . . 
+        . # # # . 
+        # . . . #
+        `</field></block></statement></block><block type="function_definition" id="otU,udVC/?2;5DvoO*Yx" x="639" y="280"><mutation name="triste" functionid="$Jut1CgP5x;Xiuu+p4^_"/><field name="function_name">triste</field><statement name="STACK"><block type="device_show_leds" id="9Ms;A1M9=4F#=}Wm6MR="><field name="LEDS">`
+        # # . # # 
+        . # . # . 
+        . . . . . 
+        . # # # . 
+        # . . . #
+        `</field></block></statement></block><block type="function_definition" id="vn[P{/z!zX/s5/JFcGF_" x="72" y="820"><mutation name="feliz" functionid="rDV#2#-CZ.:;@`dM=o#-"/><field name="function_name">feliz</field><statement name="STACK"><block type="device_show_leds" id="@8T[@CwNA,8GVAF~Y9Fm"><field name="LEDS">`
+        # # . # # 
+        . # . # . 
+        . . . . . 
+        # . . . # 
+        . # # # .
+        `</field></block></statement></block><block type="controls_if" id="pE;4M1Lf*B5ix}NeC_*`" disabled="true" x="201" y="1022"><value name="IF0"><shadow type="logic_boolean" id="5N~HPXT)T,c^BPMsQz61" disabled="true"><field name="BOOL">TRUE</field></shadow></value></block></xml>
